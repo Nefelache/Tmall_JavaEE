@@ -103,7 +103,7 @@
 
     <!-- Show the home page when accessing the root context -->
     <welcome-file-list>
-        <welcome-file>forehome</welcome-file>
+        <welcome-file>home.jsp</welcome-file>
     </welcome-file-list>
 
 </web-app>
